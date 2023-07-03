@@ -7,3 +7,6 @@ This is our first repository
 * Department
 - Faculty
 + Unit
+
+### Desktop client test
+We just cloned to desktop
